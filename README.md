@@ -1,4 +1,4 @@
-vanillaJS-todo
+### VanillaJS-todo
 
 To use this app, just open the:
 
